@@ -6,6 +6,11 @@ My first C programming project.
 
 gcc hello.c -o hello && ./hello
 
-## Student Name
+ ## Collaboration Log
+
+- Partner: punya 
+- GitHub Username: punyakandagal
+- What we built: Added the greet() function.
+- What I learned: I learned how to use Live Share to work together and GitLens to see changes.
 
 Priyanka
